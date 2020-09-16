@@ -6,7 +6,7 @@ A curated list with projects (free & commercial) crafted on top of **Star Admin*
 
 > Star Admin links
 
-- [Star Admin Free](https://www.bootstrapdash.com/product/star-admin-free/) - the HTML version hosted by BootstrapDash
+- [Star Admin - HTML version](https://www.bootstrapdash.com/product/star-admin-free/) - the HTML version hosted by BootstrapDash
 - [Star Admin - Flask](https://appseed.us/admin-dashboards/flask-dashboard-staradmin), free Flask starter provided by AppSeed
 - [Star Admin - Django](https://appseed.us/admin-dashboards/django-dashboard-staradmin), a simple Django dashboard provided by AppSeed
 
